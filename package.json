@@ -1,5 +1,6 @@
 {
   "name": "todo-app",
+  "homepage":"https://raju365.github.io/todo-reactApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
